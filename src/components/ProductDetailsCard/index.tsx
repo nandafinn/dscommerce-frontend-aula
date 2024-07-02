@@ -1,4 +1,4 @@
-import './style.css'
+import './styles.css'
 import computerImg from '../../assets/computer.png';
 import ProductCategory from '../ProductCategory';
 
